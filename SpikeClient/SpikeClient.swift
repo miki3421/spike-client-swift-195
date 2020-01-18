@@ -30,7 +30,7 @@ public enum SpikeError: Error {
 
 
 public enum KnownSpikeServers: String {
-    case LOCAL_SPIKE="http://miki-cdm-monitor.herokuapp.com/"
+    case LOCAL_SPIKE="http://mikishareserver.herokuapp.com/"
     
 
 }
